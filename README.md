@@ -1,8 +1,7 @@
 De Justin FAVRAUD et Chamseddine SASSI.
 Ce projet a été fait sous macOS, avec les limitations que ça implique. 
 
-ATTENTION LE CODE NE FONCTIONNE QUE SUR VISUAL STUDIO CODE
-NOUS NE SAVONS PAS POURQUOI IL NE VEUT PAS SE LANCER CORRECTEMENT DANS UN TERMINAL CLASSIQUE
+Attention: Le code ne fonctionne que sur Visual Studio Code. Pour une raison qui nous échappe actuellement, il ne se lance pas dans un terminal classique.
 
 Pour tester le programme nous conseillons d'utiliser les scripts 1 et 2 déjà existants afin de voir les possibilités de l'édition de carte.a
 Le joueur est libre de créer ses propres cartes aussi
